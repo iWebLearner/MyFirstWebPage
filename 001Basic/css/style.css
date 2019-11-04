@@ -11,7 +11,7 @@ body, h1 {
 }
 .bcg {
 	width: 618px;
-	background: linear-gradient(to right bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)), url(bcg.jpg) no-repeat center; 
+	background: linear-gradient(to right bottom, rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0)), url(../images/bcg.jpg) no-repeat center; 
 	text-align: center;
 	color: #fff;
 	position: absolute;
